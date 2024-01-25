@@ -4,8 +4,7 @@ TEMPLATE DE README
 
 ## Descrição
 
-Projeto que visa a criação de layout de plataforma de streaming, mostrando a descrição da serie e o video em execução. 
-
+Projeto voltado para a concepção de um layout para uma plataforma de streaming, destacando não apenas a descrição da série, mas também a reprodução do vídeo em destaque.
 ## Recursos
 
 - Duas telas
