@@ -9,7 +9,7 @@ Projeto voltado para a concepção de um layout para uma plataforma de streaming
 
 - Duas telas
 - Tela 1: descrição do seriado
-- Tela 2: video em execução fullscreen
+- Tela 2: video em execução no formato fullscreen
 
 ## Capturas de Tela
 
